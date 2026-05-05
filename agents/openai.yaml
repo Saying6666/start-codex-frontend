@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Codex Frontend"
+  short_description: "Start or reuse the local Codex Web frontend service."
+  default_prompt: "启动 Codex 前端服务"
